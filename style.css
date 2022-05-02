@@ -1,0 +1,60 @@
+
+.h1{
+	text-align: center;
+	color: red;
+	text-decoration: underline black;
+	text-decoration-style: double;
+	padding-top:10px ;
+}
+.h2{
+	margin-left: 10%;
+	color: blue;
+	text-decoration: underline black;
+	text-decoration-style: solid;
+}
+.h2 img{
+	border: red 5px solid;
+}
+.link{
+	margin: 10%;
+}
+
+.ul li{
+	list-style: square;
+}
+.ul {
+	line-height: 1.6em;
+	margin-left: 13%;
+}
+.ingredient{
+	color: blue;
+	text-decoration: underline black;
+	text-decoration-style: wavy;
+	margin-left:10% ;
+}
+.step{
+	color: blue;
+	text-decoration: underline black;
+	text-decoration-style: wavy;
+	margin-left:10% ;
+}
+.ol li{
+	color: red;
+	text-decoration: underline black;
+	text-decoration-style: solid;
+	margin-left:12% ;
+}
+.ol p{
+	margin-left:14% ;
+	line-height: 1.8em;
+}
+.n h2{
+	color: blue;
+	text-decoration: underline black;
+	text-decoration-style: wavy;
+	margin-left:10% ;
+}
+.n p{
+	line-height: 1.8em;
+	margin-left: 14%;
+}
