@@ -12,6 +12,9 @@
 	text-decoration: underline black;
 	text-decoration-style: solid;
 }
+.frame{
+	margin-left:10%;
+}
 .link{
 	margin: 10%;
 }
